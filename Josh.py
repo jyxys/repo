@@ -1,7 +1,5 @@
 
 
-# Why hello There
-
 #
 # 김치뽂음밥="김치볶음밥"
 # pizza="pizza"
